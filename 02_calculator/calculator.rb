@@ -7,7 +7,6 @@ def subtract(a, b)
   return a - b
 end
 
-
 def sum(array)
   array.inject(0) {|sum, x| sum + x}
 end
